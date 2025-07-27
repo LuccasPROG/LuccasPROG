@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 HELLO WORD! Eu sou o Luccas
 
-<!--
-**LuccasPROG/LuccasPROG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudando Programação com foco em Python e Lógica.
+🎯 Futuro Dev em construção.
+🚀 Em busca da primeira oportunidade no mundo da TI.
+📚 Atualmente aprendendo com Curso em Vídeo e Udemy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Web
+- HTML e CSS (iniciando)
+
+## 🐍 Python
+- Sintaxe básica
+- Estruturas condicionais e de repetição
+- Manipulação de dados simples
+
+## 🔧 Ferramentas & Conhecimentos
+- Git e GitHub
+- Excel Básico
+- VS Code
+
+## 📚 Estudos em andamento
+- Lógica de Programação
+- Python (Udemy)
+- Fundamentos de TI
+
+---
+
+## 📫 Contato
+Em breve estarei adicionando mais formas de contato aqui.  
+Por enquanto, você pode me acompanhar aqui mesmo no GitHub! 😉
