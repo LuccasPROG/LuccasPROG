@@ -21,6 +21,7 @@
 - VS Code
 
 ## 📚 Estudos em andamento
+- Faculdade ADS
 - Lógica de Programação
 - Python (Udemy)
 - Fundamentos de TI
