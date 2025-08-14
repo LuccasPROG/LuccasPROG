@@ -17,7 +17,7 @@
 
 ## 🔧 Ferramentas & Conhecimentos
 - Git e GitHub
-- Excel Básico
+- Pacote Office (Intermediario)
 - VS Code
 
 ## 📚 Estudos em andamento
