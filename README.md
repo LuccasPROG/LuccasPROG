@@ -49,16 +49,19 @@
 
 ---
 
+<a href="https://github.com/LuccasPROG">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuccasPROG&theme=midnight-purple" />
+</a>
+<a href="https://github.com/LuccasPROG">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasPROG&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+
 ### 📫 Contato
 
 - Email: lucaseviliton2019@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-814b2136b/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuccasPROG&show_icons=true&theme=dark" alt="LuccasPROG Stats" />
-</p>
 
 ---
 
