@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Luccas! 👋</h1>
+<h1 align="center">Hello, eu sou o Luccas!</h1>
 
 <p align="center">
   <img src="https://png.pngtree.com/png-vector/20240314/ourmid/pngtree-cute-albino-ball-python-snake-cartoon-png-image_11949979.png" alt="Python Snake" width="120"/>
@@ -29,7 +29,7 @@
 - **Python** (automação, scripts, projetos pessoais)
 - **Git & GitHub** (controle de versões, repositórios)
 - **Pacote Office** (Word, Excel, PowerPoint)
-- Linux/Windows
+- Windows
 
 ---
 
@@ -60,8 +60,8 @@
 
 ### 📫 Contato
 
-- Email: lucaseviliton2019@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-814b2136b/)
+  <a href="mailto:lucaseviliton2019@gmail.com"><img src="https://img.shields.io/badge/Email lucaseviliton2019@gmil.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/josé-lucas-814b2136b/"><img src="https://img.shields.io/badge/LinkedIn Lucas-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ---
 
