@@ -24,8 +24,7 @@
 - 🎓 **Graduando na Faculdade Senac em Analise e desenvolvimento de sistemas**  
 - 💻 Atualmente focado em estudos de **Python** (nível intermediário)
 - 🚀 Aprendendo sobre **Git** e **GitHub** para versionamento de código
-- 📚 Conhecimento intermediário em **Pacote Office**
-- 📜 **Cursos de Informática** (Word, Excel, PowerPoint, Windows, Internet)
+- 📚 Conhecimento basico em **Pacote Office**
 - 📝 Sempre buscando aprender coisas novas e criar projetos práticos
 
 ---
