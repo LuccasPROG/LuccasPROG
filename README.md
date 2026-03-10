@@ -44,6 +44,7 @@
 ## 🌱 Em aprendizado
 
 - Python
+- HTML e CSS
 - Pacote Office
 - Boas práticas de programação
 - Desenvolvimento de projetos próprios
@@ -67,15 +68,6 @@
     <sub>Aqui guardo tudo que aprendo, inclusive bugs para rir depois 😅</sub>
   </a>
   <br><br>
-
----
-
-<a href="https://github.com/LuccasPROG">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LuccasPROG&theme=midnight-purple" />
-</a>
-<a href="https://github.com/LuccasPROG">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasPROG&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ---
 
